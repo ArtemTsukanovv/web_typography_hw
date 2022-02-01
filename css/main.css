@@ -1,0 +1,100 @@
+* {
+  border: none;
+  padding: 0;
+  margin: 5px;
+  box-sizing: border-box;
+}
+
+img {
+  height: 350px;
+}
+
+p {
+  font-size: 25px;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+  
+}
+h2 {
+  font-size: 35px;
+  font-family: 'Dosis', sans-serif;
+  font-weight: bold;
+}
+
+.one {
+  padding-bottom: 200px;
+}
+
+.bartender {
+  float: right;
+  padding-left: 5px;
+}
+
+.first_text {
+  text-align: left;
+}
+
+.second_text {
+  text-align: left;
+}
+
+.three_photos {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+place-items: center;
+padding-bottom: 40px;
+}
+
+.h2 {
+  background-color: black;
+  padding-bottom: 1px;
+  padding-top: 1px;
+  width: 243px;
+  color: #e6b000;
+}
+
+.Introduction {
+  background-color: black;
+  padding-bottom: 1px;
+  padding-top: 1px;
+  width: 175px;
+  color: rgb(230, 176, 0);
+}
+
+.Brewers {
+  background-color: black;
+  padding-bottom: 1px;
+  padding-top: 1px;
+  width: 265px;
+  color: rgb(230, 176, 0);
+}
+
+.three {
+  padding-bottom: 40px;
+}
+
+.Wolverine {
+  background-color: black;
+  padding-bottom: 1px;
+  padding-top: 1px;
+  width: 395px;
+  color: rgb(230, 176, 0);
+}
+ 
+.drinking_glass {
+  float: right;
+  padding-left: 5px;
+}
+
+.four {
+  padding-bottom: 40px;
+
+}
+
+.Conclusions {
+  background-color: black;
+  padding-bottom: 1px;
+  padding-top: 1px;
+  width: 170px;
+  color: rgb(230, 176, 0);
+}
